@@ -1,4 +1,4 @@
-![keep](https://keepnotes.ai/og-image.png)
+![keep](https://keep.generalbusiness.ai/keep-slim.png)
 
 Keep: A memory system.  Store, search, index and recall.  Flexible, extensible, scalable.
 
@@ -11,8 +11,12 @@ Open-source CLI, MCP server, Python SDK, and plugins.
 
 ### Documentation
 
-- [CLI Quickstart](https://docs.keepnotes.ai/guides/quickstart/) — install and start using keep in minutes
-- [REST API Quickstart](https://docs.keepnotes.ai/guides/rest-api/) — integrate with any language via HTTP
+Quickstart guides for various environments:
+- [Hermes Agent](https://docs.generalbusiness.ai/guides/hermes/)
+- [Openclaw](https://docs.generalbusiness.ai/guides/openclaw/)
+- [Claude Desktop](https://docs.generalbusiness.ai/guides/claude-desktop/)
+- [CLI and other devtools](https://docs.generalbusiness.ai/guides/quickstart/)
+
 - [Full docs](https://docs.keepnotes.ai/)
 
 ---
