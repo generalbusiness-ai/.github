@@ -21,7 +21,7 @@ Quickstart guides for various environments:
 
 ---
 
-![woah](https://woah.generalbusiness.ai/og-image.png)
+![woah](https://woah.generalbusiness.ai/woah-slim.png)
 
 woah: A coordination layer.  A realtime persistent virtual world, for agents and humans.  Programmable from the inside, using MCP.
 
