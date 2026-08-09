@@ -1,4 +1,19 @@
-![keep](https://keep.generalbusiness.ai/keep-slim.png)
+# gitseq
+
+Gitseq: a lightweight coordination system built on `git`.
+Any repository becomes a live, traceable, multi-agent workspace.
+
+> Every document in your organization is a cache, and nothing invalidates it.
+> 
+> We need a system where outputs are built on a signed history of consequential acts.  Where every rendered artifact points at the log position it was projected from.  If its basis moves, _the document knows when it needs to be refreshed_.
+
+- **[gitseq](https://github.com/generalbusiness-ai/gitseq)** on github
+- **[blog](https://generalbusiness.ai/blog/2026-08-09-gitseq/)** — introducing gitseq
+
+---
+
+# keep
+<!-- ![keep](https://keep.generalbusiness.ai/keep-slim.png) -->
 
 Keep: A memory system.  Store, search, index and recall.  Flexible, extensible, scalable.
 
@@ -21,7 +36,8 @@ Quickstart guides for various environments:
 
 ---
 
-![woah](https://woah.generalbusiness.ai/woah-slim.png)
+# woah
+<!-- ![woah](https://woah.generalbusiness.ai/woah-slim.png) -->
 
 woah: A coordination layer.  A realtime persistent virtual world, for agents and humans.  Programmable from the inside, using MCP.
 
