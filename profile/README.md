@@ -8,6 +8,7 @@ Any repository becomes a live, traceable, multi-agent workspace.
 > We need a system where outputs are built on a signed history of consequential acts.  Where every rendered artifact points at the log position it was projected from.  If its basis moves, _the document knows when it needs to be refreshed_.
 
 - **[gitseq](https://github.com/generalbusiness-ai/gitseq)** on github
+
 - **[blog](https://generalbusiness.ai/blog/2026-08-09-gitseq/)** — introducing gitseq
 
 ---
