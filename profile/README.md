@@ -2,7 +2,7 @@
 
 Tailapp: micro-analytics for AI agents.
 
-Reads OTLP/HTTP logs, spans, and metric points, then runs micro-apps that produce SQLite projections, inspectable over CLI or MCP.
+Simple micro-apps that read OTLP/HTTP logs, spans, and metric points and produce SQLite projections, inspectable over CLI or MCP.
 
 - **[tailapp](https://github.com/generalbusiness-ai/tailapp)** on githuub
 
