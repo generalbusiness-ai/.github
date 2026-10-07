@@ -1,10 +1,10 @@
-# tailapp
+# tailapps
 
-Tailapp: micro-analytics for AI agents.
+Tailapps: micro-analytics for AI agents.
 
 Tailapps are simple, local micro-apps that turn OTLP/HTTP logs, spans, and metric points into SQLite projections you can inspect over CLI or MCP, making agent behavior easy to monitor.
 
-- **[tailapp](https://github.com/generalbusiness-ai/tailapp)** on githuub
+- **[tailapps](https://github.com/generalbusiness-ai/tailapps)** on githuub
 
 # gitseq
 
