@@ -19,7 +19,7 @@ Any repository becomes a live, traceable, multi-agent workspace.
 
 - **[blog](https://generalbusiness.ai/blog/2026-08-09-gitseq/)** — introducing gitseq
 
-- **Additional experiments**: [atseq](https://github.com/generalbusiness-ai/atseq) - apps over ATproto; [noseq](https://github.com/generalbusiness-ai/noseq) - apps over Nostr; [dap](https://github.com/generalbusiness-ai/dap) - framework for evolvable event-sourced apps
+- **Additional experiments**: [atseq](https://github.com/generalbusiness-ai/atseq) - apps over ATproto; [noseq](https://github.com/generalbusiness-ai/noseq) - apps over Nostr; [dap-spike](https://github.com/generalbusiness-ai/dap-spike) - framework for evolvable event-sourced apps
 
 ---
 
