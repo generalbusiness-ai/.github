@@ -1,10 +1,21 @@
+# dap
+
+Dap: durable application platform.
+
+A scalable coordination fabric for people and agents.
+
+- **[dap](https://github.com/generalbusiness-ai/dap)** on github
+
+- **[live](https://dap.generalbusiness.ai)** — go play
+
+
 # tailapps
 
 Tailapps: micro-analytics for AI agents.
 
 Tailapps are simple, local micro-apps that turn OTLP/HTTP logs, spans, and metric points into SQLite projections you can inspect over CLI or MCP, making agent behavior easy to monitor.
 
-- **[tailapps](https://github.com/generalbusiness-ai/tailapps)** on githuub
+- **[tailapps](https://github.com/generalbusiness-ai/tailapps)** on github
 
 # gitseq
 
