@@ -1,6 +1,6 @@
 # dap
 
-Dap: durable application platform.
+Dap: durable action platform.
 
 A scalable coordination fabric for people and agents.
 
