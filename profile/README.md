@@ -6,7 +6,7 @@ A scalable coordination fabric for people and agents.
 
 - **[dap](https://github.com/generalbusiness-ai/dap)** on github
 
-- **[live](https://dap.generalbusiness.ai)** — go play
+- **[dap](https://dap.generalbusiness.ai)** on the cloudflare global network
 
 
 # tailapps
